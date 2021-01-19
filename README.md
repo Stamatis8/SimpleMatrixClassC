@@ -1,4 +1,4 @@
-# SimpleMatrixClassC-
+# SimpleMatrixClassC++
 As the name suggest, this is a simple matrix class in c++. It depends on the std::vector object. 
 General:
 Each matrix is saved in two ways, two std::vector<std::vector<double>> objects are attributes of the class, one named "Rows" and the other "Columns", where the rows and the columns are contained respectively.
